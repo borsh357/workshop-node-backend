@@ -35,7 +35,9 @@
   "author": "Kalagin Ivan",
   "license": "ISC",
   "devDependencies": {
+    "body-parser": "^1.19.0",
     "clean-webpack-plugin": "^3.0.0",
+    "cors": "^2.8.5",
     "css-loader": "^3.4.2",
     "express": "^4.17.1",
     "html-webpack-plugin": "^3.2.0",
